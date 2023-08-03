@@ -1,0 +1,11 @@
+# Ignore PyCharm project files
+/.idea/
+
+# Ignore PyCharm cache files
+*.iml
+*.iws
+*.ipr
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
